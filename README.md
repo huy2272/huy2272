@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-🔭 I’m currently working on an Othello game. 
+🔭 I’m currently working on an Othello game & pet adoption website. 
 
 🌱 I’m currently learning OOP, C#, Web development.
 
