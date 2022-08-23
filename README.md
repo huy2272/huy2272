@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-🔭 I’m currently working on an Othello game & pet adoption website. 
+🔭 I’m currently working on an Othello website. 
 
-🌱 I’m currently learning OOP, C#, Web development.
+🌱 I’m currently learning Web Development, React.js.
 
 📫 How to reach me: huy2272@gmail.com
