@@ -1,7 +1,14 @@
 ### Hi there 👋
 
-🔭 I’m currently improving my skills and knowledge in back-end developemnt by working on a group project using Java Spring Boot, MongoDB. 
+⚡ Work experience:
 
-🌱 I’m currently learning how to develop software by following Agile methodology.
+* Software Engineer intern at Coveo - Front-end development on the Solution Engineering team. [Montreal. Fall 2022]
+* Software Engineer intern at Morgan Stanley - Full-stack development on the Model Risk Management team. [Montreal. Winter & Summer 2023]
 
-📫 How to reach me: huy2272@gmail.com
+🔭 I’m currently working on:
+* A real-estate website project for home buyers, brokers, rentors and system admins.
+
+🌱 I’m currently improving:
+* My knowledge of Software Processes by developing an application following Agile methodology.
+
+📫 How to reach me: huy2272@gmail.com | https://www.linkedin.com/in/khanhhuynguyen
