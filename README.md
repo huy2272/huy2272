@@ -6,7 +6,7 @@
 * Software Engineer intern at Morgan Stanley - Full-stack development on the Model Risk Management team. [Montreal. Winter & Summer 2023]
 
 🔭 I’m currently working on:
-* A real-estate website project for home buyers, brokers, rentors and system admins.
+* A real-estate website project for home buyers, brokers, rentors and system admins. Working in a team of 6, following proper software development processes.
 
 🌱 I’m currently improving:
 * My knowledge of Software Processes by developing an application following Agile methodology.
