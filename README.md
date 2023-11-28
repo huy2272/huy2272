@@ -7,8 +7,10 @@
 
 🔭 I’m currently working on:
 * A real-estate website project for home buyers, brokers, rentors and system admins. Working in a team of 6, following Agile software development processes.
+* Containerization: Using docker-compose to deploy a full stack applications.
 
 🌱 I’m currently improving:
 * My knowledge of Software Processes by developing an application following Agile methodology.
+* Software containerization, deployment.
 
 📫 How to reach me: huy2272@gmail.com | https://www.linkedin.com/in/khanhhuynguyen
