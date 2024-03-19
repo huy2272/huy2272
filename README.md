@@ -10,6 +10,5 @@
 
 🌱 I’m currently improving:
 * Software containerization, deployment.
-* JavaScript OOP, web development, front-end design patterns.
 
 📫 How to reach me: huy2272@gmail.com | https://www.linkedin.com/in/khanhhuynguyen
