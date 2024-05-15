@@ -12,4 +12,4 @@
 🌱 I’m currently improving:
 * Software containerization, deployment.
 
-📫 How to reach me: huy2272@gmail.com | https://www.linkedin.com/in/khanhhuynguyen
+📫 How to reach me: https://www.linkedin.com/in/khanhhuynguyen
