@@ -2,7 +2,7 @@
 
 ⚡ Work experience:
 
-* Software Engineer intern at Autodesk - Front-end web infra development on the Customer Facing Platform team. [Montreal. May 2024 - Present]
+* Software Engineer intern at Autodesk - Front-end web infra development on the Customer Facing Platform team. [Montreal. Summer 2024]
 * Software Engineer intern at Coveo - Front-end development on the Solution Engineering team. [Montreal. Fall 2023]
 * Software Engineer intern at Morgan Stanley - Full-stack development on the Model Risk Management team. [Montreal. Winter & Summer 2023]
 
