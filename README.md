@@ -7,9 +7,9 @@
 * Software Engineer intern at Morgan Stanley - Full-stack development on the Model Risk Management team. [Montreal. Winter & Summer 2023]
 
 🔭 I’m currently working on:
-* Containerization: Using docker-compose to deploy a full stack applications.
+* CAPSTONE project: Mobile app for a Montreal stealth startup.
 
 🌱 I’m currently improving:
-* Software containerization, deployment.
+* Project Management, system design and project planning.
 
 📫 How to reach me: https://www.linkedin.com/in/khanhhuynguyen
