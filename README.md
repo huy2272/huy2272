@@ -9,7 +9,5 @@
 🔭 I’m currently working on:
 * CAPSTONE project: Mobile app for a Montreal stealth startup.
 
-🌱 I’m currently improving:
-* Project Management, system design and project planning.
 
 📫 How to reach me: https://www.linkedin.com/in/khanhhuynguyen
