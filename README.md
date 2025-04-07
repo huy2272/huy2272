@@ -11,7 +11,7 @@
   * Turn-by-turn navigation.
   * iOS/Android internal distribution.
   * CI/CD pipelines.
-  * App state management,error management, localisation, analytics & user loggings.
+  * App state management, error management, localisation, analytics & user loggings.
 
 
 📫 How to reach me: https://www.linkedin.com/in/khanhhuynguyen
