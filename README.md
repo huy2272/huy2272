@@ -8,7 +8,7 @@
 
 🔭 I’m currently working on:
 * EigenFinTech
-  * Enhancing EigenFinTech blogs web performance.
+  * Enhancing EigenFinTech blogs web & API performance.
 
 
 📫 How to reach me: https://www.linkedin.com/in/khanhhuynguyen
