@@ -3,10 +3,9 @@
 ⚡ Work experience:
 * Software Engineer at EigenFinTech: Enhancing Webapp and API performance
 * Software Engineer internships:
-  * Position (Team) - Company
-    * Web Infra (Platform Engineering) - Autodesk
-    * Front-End (Solution Engineering) - Coveo
-    * Full-stack (Risk Engineering) - Morgan Stanley
+  * Web Infra (Platform Engineering team) - Autodesk
+  * Front-End (Solution Engineering team) - Coveo
+  * Full-stack (Risk Engineering team) - Morgan Stanley
 
 🔭 I’m currently working on:
 * EigenFinTech
