@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 ⚡ Work experience:
-* Software Engineer at EigenFinTech: Enhancing Webapp and API performance
+* Full-stack Software Engineer at EigenFinTech: Enhancing Webapp and API performance
 * Software Engineer internships:
   * Web Infra (Platform Engineering team) - Autodesk
   * Front-End (Solution Engineering team) - Coveo
